@@ -1,13 +1,8 @@
-# Strata-Dynamics-First-Game
-We are a new game studio that is Community Guided we take pride in ensuring our community comes first.
-
-
-
 # 🚀 Welcome to Strata Dynamics & Dynamiq Development!  
 
-Hello everyone! We’re thrilled to announce that **Strata Dynamics** is officially live — a brand-new game studio dedicated to creating **high-quality, immersive simulation experiences**.  
+Hello everyone! We’re thrilled to announce that **Strata Dynamics** is officially live a brand-new game studio dedicated to creating **high-quality, immersive simulation experiences**.  
 
-Dynamiq is our **first large-scale project**, and we’ve **discontinued all our previous projects** to fully focus on bringing this game to life. Our goal is to build something **photorealistic, physics-driven, and community-focused** — a true next-level vehicle simulation.  
+Dynamiq is our **first large-scale project**, and we’ve **discontinued all our previous projects** to fully focus on bringing this game to life. Our goal is to build something **photorealistic, physics-driven, and community-focused** a true next-level vehicle simulation.  
 
 ---
 
@@ -20,6 +15,7 @@ Dynamiq is designed to push the boundaries of vehicle simulation with:
 - **Large-Scale Multiplayer:** Free-to-play multiplayer with optional map add-ons.  
 - **Modular Content Packs:** Vehicle packs, map packs, and event packs to expand gameplay.  
 - **Community-Driven Development:** Feedback from our players directly influences updates, maps, and vehicles.  
+- **Community Reliance:** We are **heavily dependent on the community that grows alongside us**. Your ideas, feedback, and engagement are essential to the success and evolution of Dynamiq.  
 
 ---
 
@@ -42,4 +38,4 @@ By joining, you’ll get:
 
 ---
 
-We’re building **Strata Dynamics** from the ground up, and Dynamiq is just the beginning. **Welcome to our community — the future of vehicle simulation starts here!**
+We’re building **Strata Dynamics** from the ground up, and Dynamiq is just the beginning. **Our community is a core part of everything we do, welcome to the journey!**
